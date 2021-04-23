@@ -7,7 +7,7 @@ The first cell in section 2.3 can be skipped. running this cell can take over 30
 Finally, sections 1.3 and 1.4 can be ignored, and is only intended to be read if one wants to gain a further understanding of the statistics used in the creation of the models in this project.
 
 We all worked on figuring out the project direction and finding data.
-Jack Carscadden - Cleaned data, implemented and optimized SVM, wrote report
-Tanmay Patel - Analyzed SVM and PCA, made presentation, made figures
-Adam Dockery - Cleaned data, implemented random forest, made model predictions, made figures
-Mitchell Davis - did not participate
+Jack Carscadden - Cleaned data, implemented and optimized SVM, wrote report.
+Tanmay Patel - Analyzed SVM and PCA, made presentation, made figures.
+Adam Dockery - Cleaned data, implemented random forest, made model predictions, made figures.
+Mitchell Davis - did not participate.
